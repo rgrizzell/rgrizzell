@@ -11,7 +11,7 @@
     <div id="body" align="center">
         <table style="margin-left:auto;margin-right:auto">
             <tr>
-                <td style="vertical-align:top">
+                <td style="text-align:left;vertical-align:top">
                     <strong>📜 Languages</strong><br/>
                         <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=efefef&color=6c71c4" alt="Python" />
                         <img src="https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=efefef&color=6c71c4" alt="Go" />
