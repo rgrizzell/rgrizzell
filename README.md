@@ -8,7 +8,7 @@
         </p>
     <hr/>
     </div>
-    <div id="body" align="center">
+    <div id="body">
         <table style="margin-left:auto;margin-right:auto">
             <tr>
                 <td style="text-align:left;vertical-align:top">
